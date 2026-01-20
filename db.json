@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "name": "Dừa Sáp ",
+      "image": "'../../assets/img/dua-sap.jpg",
+      "quantity": "20",
+      "price": "8000000",
+      "discount": "2000000",
+      "rate": 4,
+      "desc": "Dừa sáp là đặc sản chỉ trồng duy nhất ở Trà Vinh. Và đây cũng là loại dừa có giá thành cao nhất Việt Nam hiện nay.Dừa sáp Trà Vinh có vẻ ngoài như các loại dừa bình thường. Tuy nhiên khi bổ ra bên trong là phần sáp dẻo trắng ngần.",
+      "id": 1,
+      "idhuyen": 1
+    },
+    {
+      "name": "Bánh Tét Trà Cuông ",
+      "image": "'../../assets/img/banh-tet.jpg",
+      "quantity": "20",
+      "price": "15000000",
+      "discount": "3000000",
+      "rate": 5,
+      "desc": "Bánh tét Trà Cuông – Trà Vinh là một loại bánh tét nổi tiếng nhất nhì miền nam gói tại Trà Vinh. Hương vị thơm ngon nức mũi của những đòn bánh tét mới ra lò chắc chắn sẽ khiến bao nhiêu khách du lịch phải bỏ tiền mua ít nhất 2-3 đòn về thưởng thức hoặc biếu tặng.",
+      "id": 2,
+      "idhuyen": 1
+    },
+    {
+      "name": "Bánh Tét cốm dẹp ",
+      "image": "'../../assets/img/banh-tet-com-dep.jpg",
+      "quantity": "20",
+      "price": "12000000",
+      "discount": "3000000",
+      "rate": 5,
+      "desc": "Bánh Tét cốm dẹp Trà Vinh , là loại bánh đầy mới lạ được làm bằng cốm dẹp với hương vị thơm ngon.",
+      "id": 3,
+      "idhuyen": 2
+    },
+    {
+      "name": "Bánh ú Đa Lộc",
+      "image": "'../../assets/img/banh-u.jpg",
+      "quantity": "20",
+      "price": "1000000",
+      "discount": "2000000",
+      "rate": 5,
+      "desc": "Người Đa Lộc cùng với đôi bàn tay khéo léo đã uốn nắn những chiếc bánh ú nằm gọn trong lá chuối xanh. Bánh ú khi chín có màu vàng cánh gián điểm phớt xanh. Bên trong là lớp vỏ nếp dẻo mịn, nhân đậu xanh bùi cùng thịt mỡ béo thơm. Người ta tìm về bánh ú Đa Lộc không chỉ vì ngon. Mà đâu đó trong từng miếng bánh họ thấy thấp thoáng hình ảnh những bà, những mẹ… khéo tay bên góc bếp sau nhà.",
+      "id": 4,
+      "idhuyen": 3
+    },
+    {
+      "name": "Chả hoa Năm Thụy ",
+      "image": "'../../assets/img/cha-hoa-nam-thuy.jpg",
+      "quantity": "20",
+      "price": "7000000",
+      "discount": "2000000",
+      "rate": 4,
+      "desc": "Chả Hoa Năm Thụy là một đặc sản nổi tiếng của đất Trà Vinh, như tên gọi chả hoa khi cắt ra sẽ có hình giống như bông hoa ở giữa là trứng muối, xung quanh là nấm mèo, chả, ngoài cùng là lớp trứng gà đánh tan chiên thành tấm cuộn bên ngoài, vừa thơm ngon vừa đẹp mắt.Ngoài ra còn có chả thủ, ba tê cuộn trứng, chả hoa hình con cá cùng thương hiệu.",
+      "id": 5,
+      "idhuyen": 5
+    },
+    {
+      "name": "Củ cải muối",
+      "image": "'../../assets/img/cu-cai-muoi.jpg",
+      "quantity": "20",
+      "price": "5000000",
+      "discount": "500000",
+      "rate": 3,
+      "desc": "Củ cải muối hay sá pấu là một trong những món ăn ngon có tiếng của Trà Vinh. Đây là món ăn được hình thành và phát triển bởi một gia đình người Hoa.Làm củ cải muối Cầu Kè rất tốn công sức. Từ khâu ủ muối đến phơi nắng 5, 7 hôm, ngày nào cũng phải trải ra, hết nắng lại dọn vào. Rồi phải tỉa tót cho đẹp mắt mới cho vào lu để tạo mùi thơm. Củ cải muối có thể trộn giấm đường, kho thịt, nấu canh đậu hũ non, chiên với trứng hay gỏi củ cải muối tôm thịt… món nào cũng hấp dẫn vô cùng.",
+      "id": 6,
+      "idhuyen": 7
+    },
+    {
+      "name": "Bánh bao Vĩnh Kim",
+      "image": "'../../assets/img/banh-bao.png",
+      "quantity": "20",
+      "price": "3000000",
+      "discount": "",
+      "rate": 5,
+      "desc": "Một trong các món đặc sản Trà Vinh ngon vô cùng hấp dẫn mà bạn nên thưởng thức đó chính là món bánh bao Vĩnh Kim. Bánh bao tại đây có vỏ bánh thơm ngon, nhân bánh hòa vị. Để thưởng thức được món bánh này, bạn có thể tìm đến các địa chỉ quán ăn ở Xã Vĩnh Kim, thuộc địa phận huyện Cầu Ngang.",
+      "id": 7,
+      "idhuyen": 3
+    },
+    {
+      "name": "Tôm khô Vĩnh Kim",
+      "image": "'../../assets/img/tom-kho.jpg",
+      "quantity": "20",
+      "price": "17500000",
+      "discount": "150000",
+      "rate": 5,
+      "desc": "Tôm khô Vĩnh Kim được lòng du khách nhờ màu đỏ tự nhiên cùng vị ngọt ngon hết cỡ. Đây cũng là nơi duy nhất ở Trà Vinh làm tôm khô hoàn toàn từ tôm tự nhiên.",
+      "id": 7,
+      "idhuyen": 5
+    },
+    {
+      "name": "Cốm dẹp",
+      "image": "'../../assets/img/com-dep.webp",
+      "quantity": "20",
+      "price": "2000000",
+      "discount": "",
+      "rate": 4,
+      "desc": "Nếu bạn đang phân vân chưa biết ăn gì khi đến Trà Vinh thì hãy thử qua món cốm dẹp Trà Vinh ngay nhé. Đây là một trong những món ăn được xem là đặc sản của vùng đất duyên hải Đồng Bằng Sông Cửu Long. Nó có vị thơm ngon và có quy trình chế biến công phu, cầu kỳ.Những hạt cốm sau khi được thu hoạch làm sạch sẽ được làm ra nhiều món ngon như: xôi cốm, chè cốm,…Bạn có thể thưởng thức trực tiếp để cảm nhận hương vị đặc biệt của món cốm dẹp Trà Vinh nhé!",
+      "id": 8,
+      "idhuyen": 5
+    },
+    {
+      "name": "Cốm dẹp lá dứa",
+      "image": "'../../assets/img/com-dep-dua.jpg",
+      "quantity": "20",
+      "price": "2000000",
+      "discount": "",
+      "rate": 4,
+      "desc": "Nếu bạn đang phân vân chưa biết ăn gì khi đến Trà Vinh thì hãy thử qua món cốm dẹp Trà Vinh ngay nhé. Đây là một trong những món ăn được xem là đặc sản của vùng đất duyên hải Đồng Bằng Sông Cửu Long. Nó có vị thơm ngon và có quy trình chế biến công phu, cầu kỳ.Những hạt cốm sau khi được thu hoạch làm sạch sẽ được làm ra nhiều món ngon như: xôi cốm, chè cốm,…Bạn có thể thưởng thức trực tiếp để cảm nhận hương vị đặc biệt của món cốm dẹp Trà Vinh nhé!",
+      "id": 9,
+      "idhuyen": 4
+    },
+    {
+      "name": "Bánh tráng",
+      "image": "'../../assets/img/banh-trang.jpg",
+      "quantity": "20",
+      "price": "3000000",
+      "discount": "",
+      "rate": 5,
+      "desc": "Trà Vinh có đặc sản gì ngon? Bánh tráng là một món ăn không thể thiếu với người dân Trà Vinh. Món bánh được làm công phu, tỷ mỉ, mất nhiều công sức của người thợ làm bánh. Ở Trà Vinh có rất nhiều làng nghề làm bánh tráng, bạn có thể ghé thăm quan xem quy trình sản xuất và mua những tập bánh tráng về làm quà cho gia đình mình.",
+      "id": 10,
+      "idhuyen": 2
+    },
+    {
+      "name": "Mức bần",
+      "image": "'../../assets/img/muc-ban.jpg",
+      "quantity": "20",
+      "price": "3000000",
+      "discount": "",
+      "rate": 4,
+      "desc": "Mứt bần có thể dùng để pha nước uống hoặc ăn kèm bánh mì cũng rất ngon. Đây cũng là một đặc sản ở Trà Vinh bạn có thể mua làm quà tặng cho bạn bè.",
+      "id": 11,
+      "idhuyen": 1
+    },
+    {
+      "name": "Chuối tá quạ",
+      "image": "'../../assets/img/chuoi.jpg",
+      "quantity": "20",
+      "price": "2000000",
+      "discount": "",
+      "rate": 3,
+      "desc": "Chuối Tá Quạ (chuối Táo Quạ) là một loại chuối đặc sản ở thị trấn Cầu Kè, tỉnh Trà Vinh, chuối có quả rất to, một buồng thường cỡ 10 trái là nhiều. Khi xưa, Chuối Tá Quạ thường được người dân trồng để làm món ăn vặt đơn giản chứ ít khi đem bán bởi số lượng quả cho ra mỗi đợt rất ít.",
+      "id": 13,
+      "idhuyen": 2
+    },
+    {
+      "name": "Mắm Rươi",
+      "image": "'../../assets/img/mam.jpg",
+      "quantity": "20",
+      "price": "6000000",
+      "discount": "1000000",
+      "rate": 4,
+      "desc": "Rươi hay còn gọi là rồng đất xuất hiện nhiều ở vùng tiếp giáp nước mặn và nước ngọt. Rươi có thể chế biến thành rất nhiều món ăn: chả rươi, nước mắm rươi…. Lại nói về nước mắm rươi thì đây là đặc sản độc nhất vô nhị ở miệt Duyên Hải – Trà Vinh.",
+      "id": 14,
+      "idhuyen": 2
+    },
+    {
+      "name": "Rượi Xuân Thạnh",
+      "image": "'../../assets/img/ruou.jpg",
+      "quantity": "20",
+      "price": "12000000",
+      "discount": "1000000",
+      "rate": 4,
+      "desc": "Rượu XUÂN THẠNH BA LIÊU là loại rượu đặc sản Trà Vinh gồm Rượu Lão Tửu Xuân Thạnh, Rượu Nếp Than Xuân Thạnh, Rượu Chuối Hột Xuân Thạnh, Rượu Mít Xuân Thạnh, Rượu Quách Xuân Thạnh.",
+      "id": 15,
+      "idhuyen": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trái Quách",
+      "image": "'../../assets/img/trai-quach.jpg",
+      "quantity": "20",
+      "price": "2000000",
+      "discount": "",
+      "rate": 4,
+      "desc": "Quách là một loại cây rất kén đất và hình như chỉ có mặt ở khu vực miền Tây mà nhiều nhất là ở Trà Vinh. Người dân nơi đây trồng quách thu hoạch quả hàng năm và xem chúng như một cái dù lớn để che mát vườn nhà.",
+      "id": 12,
+      "idhuyen": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$klzwygzhaUhjIrcmXN72TOqIlk8lNzAhhtfFnwKpg/fSPUnYyI4X2",
+      "role": "admin",
+      "id": 16
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$1wxSB6qvPDk4.lWI7EPRo.aDAfBkxt28wFOG5.FhSIzoOsC6jhTD6",
+      "confirmPassword": "123456",
+      "role": "client",
+      "id": 17
+    },
+    {
+      "email": "110122212@gmail.com",
+      "password": "$2a$10$P3TwNHu/YNSZMDtPBC4UYOc4YVMjrBpV1Yx4.9Kf/PKlbEVA9zN1.",
+      "confirmPassword": "123456",
+      "role": "client",
+      "id": 18
+    }
+  ],
+  "cart": []
+}

@@ -1,0 +1,17 @@
+<div class="row text-center mb-5">
+    <div class="col-12">
+      <h2 class="display-4 fw-bold text-primary mb-3">Những đặc sản nổi bật Trà Vinh</h2>
+    </div>
+  </div>
+  
+  <div class="container mt-4" *ngFor="let item of AboutData; let vi = index">
+    <h1>{{ vi + 1 }}. {{ item.title }}</h1>
+    <img 
+      [src]="item.img" 
+      alt="Giới thiệu" 
+      class="img-fluid my-3" 
+      [ngStyle]="{'width.px': 800, 'height.px': 500, 'object-fit': 'cover'}"
+    >
+    <p [ngStyle]="{'font-size': '20px'}">{{ item.description }}</p>
+  </div>
+  
